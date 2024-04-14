@@ -1,8 +1,8 @@
-# Jane Doe - Terraform, EC2, TicTacToe report
+# Ishiita Pal - Terraform, EC2, TicTacToe report
 
 - Course: *Cloud programming*
-- Group:
-- Date:
+- Group: *266901 - Ishiita Pal*
+- Date: *14th April, 2024*
 
 ## Environment architecture
 
