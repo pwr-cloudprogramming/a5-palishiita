@@ -4,6 +4,8 @@
 - Group: *266901 - Ishiita Pal*
 - Date: *17th April, 2024*
 
+  ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 - frontend application files into `/frontend/src`
 - backend application files into `/backend/src`
 - Dockerfile to build frontend container image into `/frontend`
