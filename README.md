@@ -2,7 +2,13 @@
 
 - Course: *Cloud programming*
 - Group: *266901 - Ishiita Pal*
-- Date: *14th April, 2024*
+- Date: *17th April, 2024*
+
+- frontend application files into `/frontend/src`
+- backend application files into `/backend/src`
+- Dockerfile to build frontend container image into `/frontend`
+- Dockerfile to build backend container image into `/backend`
+- all other scripts to build your solution into `/build`
 
 ## Environment architecture
 
