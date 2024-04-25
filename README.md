@@ -24,6 +24,11 @@ Screenshots of configured AWS services. Screenshots of your application running.
 
 ![Screenshot 2024-04-25 130755](https://github.com/pwr-cloudprogramming/a5-palishiita/assets/54171798/5c734f87-7796-49be-852e-88c5284d765d)
 
+![Screenshot 2024-04-25 131119](https://github.com/pwr-cloudprogramming/a5-palishiita/assets/54171798/a88889af-8ff6-4df6-84c4-3c5d6a0d5f8e)
+
+![Screenshot 2024-04-25 131317](https://github.com/pwr-cloudprogramming/a5-palishiita/assets/54171798/0a0219c4-555f-4a8e-a020-36f3c4750f6a)
+
+
 ## Reflections
 
 - What did you learn?
