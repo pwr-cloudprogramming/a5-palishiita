@@ -1,9 +1,17 @@
 services:
   frontend:
-    build: ../frontend
+    build:
+      context: ../frontend
+      dockerfile: Dockerfile
+      args:
+        - IP=$IP_ADDRESS
     ports:
-      - "5173:5173"
+      - "${IP_ADDRESS}:80:80"
   backend:
-    build: ../backend
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+      args:
+        - IP=$IP_ADDRESS
     ports:
-      - "8080:8080"
+      - "${IP_ADDRESS}:8080:8080"
