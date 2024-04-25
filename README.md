@@ -20,6 +20,10 @@ Description and scheme of the developed infrastructure.
 
 Screenshots of configured AWS services. Screenshots of your application running.
 
+![Screenshot 2024-04-25 130730](https://github.com/pwr-cloudprogramming/a5-palishiita/assets/54171798/f9d9ec4a-48b8-4527-b60d-0d3f65fcd377)
+
+![Screenshot 2024-04-25 130755](https://github.com/pwr-cloudprogramming/a5-palishiita/assets/54171798/5c734f87-7796-49be-852e-88c5284d765d)
+
 ## Reflections
 
 - What did you learn?
