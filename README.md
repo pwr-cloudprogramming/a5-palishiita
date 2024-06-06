@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - Dockerfile to build frontend container image into `/frontend`
 - Dockerfile to build backend container image into `/backend`
 - all other scripts to build your solution into `/build` which contains the ` dockercompose.yaml` and `run.sh`
-- 
+ 
 
 ## Preview
 
